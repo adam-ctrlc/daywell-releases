@@ -55,6 +55,7 @@ The backup file contains your health information. Keep it private.
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.8](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.8) | In-app update | Optional reason when skipping a dose; overdue message names the dose and time |
 | [1.0.7](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.7) | In-app update | Export from any page as a backup file, a printable PDF report, or a spreadsheet |
 | [1.0.6](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.6) | App (APK) | Export and import your data to move to a new phone; clearer time and date fields |
 | [1.0.5](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.5) | In-app update | The Guide's topic list highlights the section you're reading |
