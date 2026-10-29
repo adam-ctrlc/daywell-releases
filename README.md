@@ -98,3 +98,7 @@ doctor or pharmacist tells you.
 | `f-<sha256>` | App files for in-app updates, uploaded once and reused by later releases |
 
 Installed apps read [`latest.json` from the latest release](https://github.com/adam-ctrlc/daywell-releases/releases/latest/download/latest.json).
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
