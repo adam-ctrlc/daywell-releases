@@ -44,17 +44,20 @@ If a new version ever fails to start, Daywell automatically goes back to the ver
 
 ## Moving to a new phone
 
-1. On your old phone: **Profile → Your data → Export data**, then save the file to Google Drive or
-   Files, or send it with Quick Share, Bluetooth or email.
-2. On your new phone: install Daywell, create an account, then **Profile → Your data → Import
-   backup** and pick the file.
+From version 1.0.9 your account is online: install Daywell on the new phone and sign in with the same
+email and password. Everything is there.
 
-The backup file contains your health information. Keep it private.
+Still on the old phone with data from before 1.0.9 (it was saved on that phone only)? Before
+updating, go to **Profile → Your data → Export data** and keep the file. After updating, sign in or
+create an account, then **Profile → Your data → Import backup** and pick the file.
+
+Backup files contain your health information. Keep them private.
 
 ## Release history
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.9](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.9) | In-app update | Online account on every device; pill dispenser; notifications; medication photos and colours; dark theme |
 | [1.0.8](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.8) | In-app update | Optional reason when skipping a dose; overdue message names the dose and time |
 | [1.0.7](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.7) | In-app update | Export from any page as a backup file, a printable PDF report, or a spreadsheet |
 | [1.0.6](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.6) | App (APK) | Export and import your data to move to a new phone; clearer time and date fields |
@@ -79,12 +82,16 @@ APK that doesn't come from here can't replace your installed Daywell.
 
 ## Privacy
 
-- Your account, medications, history and Medical ID are saved **on your phone only**.
-- Daywell has no ads and no analytics. Update checks read one file from this repository; nothing
-  about you is sent.
-- Permissions: internet (update checks) and notifications with exact alarms (reminders on time, even
-  after the phone restarts). Daywell can't read your files, contacts, location, camera or microphone,
-  and never asks to install apps itself.
+- Your account, medications, history, photos and Medical ID are saved in your Daywell account on
+  Daywell's server (in Tokyo), so they're the same on every device you sign in on. Your password is
+  stored scrambled, so nobody can read it.
+- If you connect a pill dispenser, your medication times and compartments are sent to the
+  dispenser's own cloud so it can follow them.
+- Daywell has no ads and no analytics.
+- Permissions: internet (your account and update checks) and notifications with exact alarms
+  (reminders on time, even after the phone restarts). Photos: Daywell only receives a photo you pick
+  yourself. It can't read your other files, contacts, location or microphone, and never asks to
+  install apps itself.
 
 Daywell helps you keep track of your medicines. It isn't medical advice: always follow what your
 doctor or pharmacist tells you.
