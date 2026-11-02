@@ -45,7 +45,7 @@ If a new version ever fails to start, Daywell automatically goes back to the ver
 ## Moving to a new phone
 
 From version 1.0.9 your account is online: install Daywell on the new phone and sign in with the same
-email and password. Everything is there.
+username and password. Everything is there.
 
 Still on the old phone with data from before 1.0.9 (it was saved on that phone only)? Before
 updating, go to **Profile → Your data → Export data** and keep the file. After updating, sign in or
@@ -57,6 +57,7 @@ Backup files contain your health information. Keep them private.
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.10](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.10) | In-app update | Sign in with a username (old emails still work); Dispenser in the bottom bar; better fit on small screens |
 | [1.0.9](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.9) | In-app update | Online account on every device; pill dispenser; notifications; medication photos and colours; dark theme |
 | [1.0.8](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.8) | In-app update | Optional reason when skipping a dose; overdue message names the dose and time |
 | [1.0.7](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.7) | In-app update | Export from any page as a backup file, a printable PDF report, or a spreadsheet |
