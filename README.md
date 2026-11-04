@@ -57,6 +57,7 @@ Backup files contain your health information. Keep them private.
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.21](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.21) | In-app update | Rounder time labels on the Medications page |
 | [1.0.20](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.20) | In-app update | Simpler Test mode: Try a schedule runs from your earliest time to your latest |
 | [1.0.19](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.19) | In-app update | Test mode's clock follows your times; plays in 5 or 10 seconds |
 | [1.0.18](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.18) | In-app update | Try a schedule plays every time you add; back arrow on Leave test mode |
