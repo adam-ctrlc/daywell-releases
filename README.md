@@ -57,6 +57,13 @@ Backup files contain your health information. Keep them private.
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.17](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.17) | In-app update | The dispenser connects through Daywell, so your phone and dispenser don't need the same Wi-Fi; 6-character dispenser codes; compartments named by angle; Test mode |
+| [1.0.16](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.16) | In-app update | Fixes photos that couldn't be read on some Android phones |
+| [1.0.15](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.15) | In-app update | Photos open more reliably |
+| [1.0.14](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.14) | In-app update | iPhone and high-efficiency (HEIC) photos can be used |
+| [1.0.13](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.13) | In-app update | Medication colors show correctly again |
+| [1.0.12](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.12) | In-app update | Tidier dispenser buttons |
+| [1.0.11](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.11) | In-app update | An updated Guide |
 | [1.0.10](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.10) | In-app update | Sign in with a username (old emails still work); Dispenser in the bottom bar; better fit on small screens |
 | [1.0.9](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.9) | In-app update | Online account on every device; pill dispenser; notifications; medication photos and colours; dark theme |
 | [1.0.8](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.8) | In-app update | Optional reason when skipping a dose; overdue message names the dose and time |
@@ -86,8 +93,8 @@ APK that doesn't come from here can't replace your installed Daywell.
 - Your account, medications, history, photos and Medical ID are saved in your Daywell account on
   Daywell's server (in Tokyo), so they're the same on every device you sign in on. Your password is
   stored scrambled, so nobody can read it.
-- If you connect a pill dispenser, your medication times and compartments are sent to the
-  dispenser's own cloud so it can follow them.
+- If you connect a pill dispenser, your dose times and compartments are saved on the Daywell server
+  so the dispenser can follow them.
 - Daywell has no ads and no analytics.
 - Permissions: internet (your account and update checks) and notifications with exact alarms
   (reminders on time, even after the phone restarts). Photos: Daywell only receives a photo you pick
