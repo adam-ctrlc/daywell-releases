@@ -57,6 +57,7 @@ Backup files contain your health information. Keep them private.
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.18](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.18) | In-app update | Try a schedule plays every time you add; back arrow on Leave test mode |
 | [1.0.17](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.17) | In-app update | The dispenser connects through Daywell, so your phone and dispenser don't need the same Wi-Fi; 6-character dispenser codes; compartments named by angle; Test mode |
 | [1.0.16](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.16) | In-app update | Fixes photos that couldn't be read on some Android phones |
 | [1.0.15](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.15) | In-app update | Photos open more reliably |
