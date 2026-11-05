@@ -57,6 +57,7 @@ Backup files contain your health information. Keep them private.
 
 | Version | Type | Highlights |
 |---|---|---|
+| [1.0.22](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.22) | In-app update | Just set a time and Daywell picks the compartment; the dispenser rings until you press its button, which gives the dose; Test mode slider; Midnight |
 | [1.0.21](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.21) | In-app update | Rounder time labels on the Medications page |
 | [1.0.20](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.20) | In-app update | Simpler Test mode: Try a schedule runs from your earliest time to your latest |
 | [1.0.19](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.19) | In-app update | Test mode's clock follows your times; plays in 5 or 10 seconds |
