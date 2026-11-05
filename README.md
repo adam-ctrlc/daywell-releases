@@ -8,24 +8,20 @@ This repository only hosts the **Android app downloads and updates**. The source
 
 ## Download
 
-| | |
-|---|---|
-| **Newest app version (APK)** | [daywell-v1.0.6.apk](https://github.com/adam-ctrlc/daywell-releases/releases/download/v1.0.6/daywell-v1.0.6.apk) |
-| **Newest release page** | [Latest release](https://github.com/adam-ctrlc/daywell-releases/releases/latest) |
-| **All releases** | [Releases](https://github.com/adam-ctrlc/daywell-releases/releases) |
-| **Requirements** | Android 7.0 or newer, about 5 MB |
+- **[Latest release](https://github.com/adam-ctrlc/daywell-releases/releases/latest)**
+- **[All releases](https://github.com/adam-ctrlc/daywell-releases/releases)**
 
-Not every release contains an APK: small updates are delivered inside the app (see
-[Updates](#updates)). To install Daywell for the first time, use the newest release that lists a
-`daywell-vX.Y.Z.apk` file under **Assets**.
+Daywell needs Android 7.0 or newer.
+
+Most updates are delivered inside the app, so not every release has an APK (see [Updates](#updates)). To install Daywell for the first time, open **All releases** and use the newest one that has a `daywell-vX.Y.Z.apk` file under **Assets**.
 
 ## Install
 
-1. On your Android phone, open the **Newest app version (APK)** link above.
+1. On your Android phone, open **All releases** above and tap the newest `daywell-vX.Y.Z.apk`.
 2. When the download finishes, tap the file to open it.
 3. The first time, Android asks to allow installs from your browser. Tap **Settings**, switch on
    **Allow from this source**, then go back and tap **Install**.
-4. Open Daywell and create an account. Your account and data are stored on your phone.
+4. Open Daywell and sign in, or create an account. Your account and data are online, so they're the same on every device.
 
 Already have Daywell? Install the new APK over it the same way; your medications and history stay.
 
@@ -44,42 +40,9 @@ If a new version ever fails to start, Daywell automatically goes back to the ver
 
 ## Moving to a new phone
 
-From version 1.0.9 your account is online: install Daywell on the new phone and sign in with the same
-username and password. Everything is there.
+Install Daywell on the new phone and sign in with the same username and password. Everything is there.
 
-Still on the old phone with data from before 1.0.9 (it was saved on that phone only)? Before
-updating, go to **Profile → Your data → Export data** and keep the file. After updating, sign in or
-create an account, then **Profile → Your data → Import backup** and pick the file.
-
-Backup files contain your health information. Keep them private.
-
-## Release history
-
-| Version | Type | Highlights |
-|---|---|---|
-| [1.0.22](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.22) | In-app update | Just set a time and Daywell picks the compartment; the dispenser rings until you press its button, which gives the dose; Test mode slider; Midnight |
-| [1.0.21](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.21) | In-app update | Rounder time labels on the Medications page |
-| [1.0.20](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.20) | In-app update | Simpler Test mode: Try a schedule runs from your earliest time to your latest |
-| [1.0.19](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.19) | In-app update | Test mode's clock follows your times; plays in 5 or 10 seconds |
-| [1.0.18](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.18) | In-app update | Try a schedule plays every time you add; back arrow on Leave test mode |
-| [1.0.17](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.17) | In-app update | The dispenser connects through Daywell, so your phone and dispenser don't need the same Wi-Fi; 6-character dispenser codes; compartments named by angle; Test mode |
-| [1.0.16](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.16) | In-app update | Fixes photos that couldn't be read on some Android phones |
-| [1.0.15](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.15) | In-app update | Photos open more reliably |
-| [1.0.14](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.14) | In-app update | iPhone and high-efficiency (HEIC) photos can be used |
-| [1.0.13](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.13) | In-app update | Medication colors show correctly again |
-| [1.0.12](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.12) | In-app update | Tidier dispenser buttons |
-| [1.0.11](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.11) | In-app update | An updated Guide |
-| [1.0.10](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.10) | In-app update | Sign in with a username (old emails still work); Dispenser in the bottom bar; better fit on small screens |
-| [1.0.9](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.9) | In-app update | Online account on every device; pill dispenser; notifications; medication photos and colours; dark theme |
-| [1.0.8](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.8) | In-app update | Optional reason when skipping a dose; overdue message names the dose and time |
-| [1.0.7](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.7) | In-app update | Export from any page as a backup file, a printable PDF report, or a spreadsheet |
-| [1.0.6](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.6) | App (APK) | Export and import your data to move to a new phone; clearer time and date fields |
-| [1.0.5](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.5) | In-app update | The Guide's topic list highlights the section you're reading |
-| [1.0.4](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.4) | App (APK) | Updates download inside the app; no more permission to install apps |
-| [1.0.3](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.3) | App (APK) | Search, a built-in Guide, a roomier phone layout, show/hide password |
-| [1.0.2](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.2) | App (APK) | Update downloads inside the app |
-| [1.0.1](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.1) | App (APK) | New app icon and launch screens |
-| [1.0.0](https://github.com/adam-ctrlc/daywell-releases/releases/tag/v1.0.0) | App (APK) | First release |
+Your data is also yours to keep: go to **Profile**, then **Your data**, then **Export data**, and to bring a backup in, use **Import backup** in the same place. Backup files contain your health information, so keep them private.
 
 ## Check that a download is genuine
 
